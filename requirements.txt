@@ -1,0 +1,9 @@
+# Crowio AI - Python dependencies
+# Tested with Python 3.10 - 3.12 on Windows 10/11
+
+anthropic>=0.39.0        # Anthropic SDK (Claude + Computer Use tool)
+pyautogui>=0.9.54        # Cross-platform mouse/keyboard automation
+pynput>=1.7.6            # Global hotkey listener (kill-switch)
+mss>=9.0.1              # Fast, multi-monitor screen capture
+Pillow>=10.0.0          # Image processing / resizing screenshots
+python-dotenv>=1.0.0     # Load API key from a .env file

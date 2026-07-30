@@ -2,7 +2,7 @@
 
 # 🐦‍⬛ Crowio AI
 
-**An autonomous Windows desktop assistant with a crow-themed control panel.**
+**An autonomous Windows desktop assistant with a control panel.**
 
 Crowio watches your screen, plans steps with a vision-capable Claude model, and
 drives your real mouse and keyboard to finish tasks — behind a hard emergency
